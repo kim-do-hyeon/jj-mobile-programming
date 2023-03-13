@@ -10,6 +10,8 @@ public class exam13 {
             public void print(){
                 System.out.println("클릭 리스너 입니다.");
             }
-        })
+        });
+
+        listener.print();
     }
 }
