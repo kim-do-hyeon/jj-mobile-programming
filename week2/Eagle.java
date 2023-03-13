@@ -1,3 +1,5 @@
+package week2;
+
 class Eagle extends Animal{
     String home;
     void move(){
