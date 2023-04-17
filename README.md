@@ -16,3 +16,7 @@ JeonJu University Third Year - Mobile Programming
 1. HelloAndroid Application
 2. Base App Application
 3. Practice Application
+
+> 2023-04-17 Mobile Programming Practice - Week 7
+1. Multiple Linear Layout
+2. Table Layout Calculator
